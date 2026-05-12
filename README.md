@@ -14,36 +14,33 @@
 ### About Me
 
 - Building practical AI workflows, personal knowledge systems, and developer tools.
-- Comfortable across backend, frontend, automation, and product-shaped experiments.
-- Recent interests: AI agents, SOP automation, Supabase/Postgres, Svelte, Python, and knowledge management.
-- Personal site project: [personal-website](https://github.com/caijinhai/personal-website).
+- Focused on Go, Python, AI full-stack development, and repeatable agent workflows.
+- Personal website: [cesarcai.site](https://cesarcai.site/).
+- Docs website: [docs.cesarcai.site](https://docs.cesarcai.site/).
 
 ### Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,go,php,js,ts,svelte,react,nodejs,postgres,supabase,docker,git,github,linux&perline=7" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=go,python,js,ts,nodejs,postgres,docker,git,github,linux&perline=5" alt="Tech stack icons" />
 </p>
+
+- Go / Python / AI Full Stack
+- Claude Code + OpenClaw + Hermes
 
 ### Featured Work
 
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [AI-SOPs](https://github.com/caijinhai/AI-SOPs) | AI workflow and SOP experiments for repeatable operating systems. | Docs / Automation |
-| [personal-website](https://github.com/caijinhai/personal-website) | Personal website project. | Svelte |
 | [skills](https://github.com/caijinhai/skills) | OpenClaw skill collection and local AI agent extensions. | Python |
-| [precipitate-pool](https://github.com/caijinhai/precipitate-pool) | Knowledge precipitation and long-term technical notes. | PHP / Knowledge |
-| [leetcode](https://github.com/caijinhai/leetcode) | Algorithm practice and problem-solving notes. | Python |
-| [issue-blog](https://github.com/caijinhai/issue-blog) | Technical writing through GitHub Issues. | Writing |
+| [plugins](https://github.com/caijinhai/plugins) | Local AI agent plugins, including private Supabase integrations. | Python / Agents |
 
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=caijinhai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="caijinhai GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caijinhai&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caijinhai&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+  <img alt="Public repositories" src="https://img.shields.io/badge/Public%20Repos-28-2563eb?style=for-the-badge&logo=github">
+  <img alt="Followers" src="https://img.shields.io/github/followers/caijinhai?style=for-the-badge&logo=github&label=Followers&color=22c55e">
+  <img alt="Profile focus" src="https://img.shields.io/badge/Focus-Go%20%2F%20Python%20%2F%20AI%20Full%20Stack-f59e0b?style=for-the-badge">
 </p>
 
 ### Connect
