@@ -1,0 +1,32 @@
+<svg width="900" height="360" viewBox="0 0 900 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Developer workspace illustration</title>
+  <desc id="desc">A developer wearing headphones, coding between two monitors.</desc>
+  <rect width="900" height="360" rx="24" fill="#F8FAFC"/>
+  <path d="M115 84h197c13.255 0 24 10.745 24 24v133c0 13.255-10.745 24-24 24H115c-13.255 0-24-10.745-24-24V108c0-13.255 10.745-24 24-24Z" fill="#FFFFFF" stroke="#B7B2E8" stroke-width="3"/>
+  <path d="M130 116h166v118H130V116Z" fill="#EEF2FF" stroke="#B7B2E8" stroke-width="2"/>
+  <path d="M149 134h117v12H149v-12Z" fill="#8B5CF6" opacity=".55"/>
+  <path d="M149 162h45v48h-45v-48Z" fill="#FCD34D" opacity=".75"/>
+  <path d="M206 162h45v48h-45v-48Z" fill="#FB7185" opacity=".55"/>
+  <path d="M263 162h21v48h-21v-48Z" fill="#34D399" opacity=".55"/>
+  <path d="M568 91h204c13.255 0 24 10.745 24 24v128c0 13.255-10.745 24-24 24H568c-13.255 0-24-10.745-24-24V115c0-13.255 10.745-24 24-24Z" fill="#FFFFFF" stroke="#B7B2E8" stroke-width="3"/>
+  <path d="M581 122h194v111H581V122Z" fill="#111827"/>
+  <path d="M600 144h58M600 163h42M600 182h74M600 201h49" stroke="#A7F3D0" stroke-width="5" stroke-linecap="round"/>
+  <path d="M690 145h58M690 164h37M690 183h64M690 202h45" stroke="#CBD5E1" stroke-width="5" stroke-linecap="round"/>
+  <path d="M461 82c58.542 0 106 47.458 106 106v98H355v-98c0-58.542 47.458-106 106-106Z" fill="#E2E8F0" stroke="#64748B" stroke-width="4"/>
+  <path d="M374 298c11-57 35-92 87-92s76 35 87 92H374Z" fill="#C4F1E5" stroke="#64748B" stroke-width="4"/>
+  <path d="M392 143c0-39.765 32.235-72 72-72s72 32.235 72 72v20c0 39.765-32.235 72-72 72s-72-32.235-72-72v-20Z" fill="#D8C67E" stroke="#7C6F3B" stroke-width="4"/>
+  <path d="M398 146c20-7 39-22 56-44 21 29 48 45 79 50" stroke="#7C6F3B" stroke-width="5" stroke-linecap="round"/>
+  <path d="M367 151c0-48.601 39.399-88 88-88h14c48.601 0 88 39.399 88 88" stroke="#22C55E" stroke-width="7" stroke-linecap="round"/>
+  <rect x="343" y="131" width="24" height="52" rx="10" fill="#22C55E" stroke="#6366F1" stroke-width="4"/>
+  <rect x="557" y="131" width="24" height="52" rx="10" fill="#22C55E" stroke="#6366F1" stroke-width="4"/>
+  <path d="M346 221c-28 30-42 49-42 67 0 9 8 16 17 14 19-4 42-36 72-83l-47 2Z" fill="#F8B4B4" stroke="#64748B" stroke-width="3"/>
+  <path d="M531 219c32 45 58 75 77 79 9 2 17-5 17-14 0-18-17-36-47-64l-47-1Z" fill="#F8B4B4" stroke="#64748B" stroke-width="3"/>
+  <circle cx="761" cy="83" r="49" fill="#FFFFFF" stroke="#B7B2E8" stroke-width="3"/>
+  <path d="M733 61h42v47h-42V61Z" fill="#EEF2FF" stroke="#B7B2E8" stroke-width="2"/>
+  <path d="M742 74h24M742 84h16M746 102l-13-11 13-11M762 102l13-11-13-11" stroke="#6366F1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M100 295h700M138 63h57M232 63h36M627 56h40M690 56h75M133 287h61M719 287h58" stroke="#A78BFA" stroke-width="3" stroke-linecap="round"/>
+  <path d="M328 60h21M338 50v21M789 279h21M799 269v21M247 91h21M257 81v21M617 60h21M627 50v21" stroke="#8B5CF6" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="195" cy="294" r="4" fill="#8B5CF6"/>
+  <circle cx="687" cy="286" r="4" fill="#8B5CF6"/>
+  <circle cx="541" cy="65" r="4" fill="#8B5CF6"/>
+</svg>
